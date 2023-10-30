@@ -38,3 +38,5 @@ while (input !== "no") {
 }
 
 
+// Alert user of total wins, ties and loses after 10 rounds
+alert("You won " + wins + " times, lost " + loses + " times and tied " + ties + " times. Refresh the page to play again");
